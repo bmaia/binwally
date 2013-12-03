@@ -2,7 +2,7 @@
 
 Binary and Directory tree comparison tool using the Fuzzy Hashing concept (ssdeep)
 
-For more information: xxxx
+For more information: http://w00tsec.blogspot.com/2013/12/binwally-directory-tree-diff-tool-using.html
   
 #Prerequisites:
 - Python 2.7+
@@ -12,7 +12,9 @@ For more information: xxxx
 
 #Screenshots
 
-![Screenshot](xxx)
+![Screenshot](http://1.bp.blogspot.com/--QD8iIwA-C4/UpzvIGUF7JI/AAAAAAAAAKQ/Hyjv1lMolYs/s1600/bin1.png)
+
+![Screenshot](http://3.bp.blogspot.com/-zhz-masG9Ic/UpzvIDKP58I/AAAAAAAAAKU/ApZfSNX8MXU/s640/bin2.png)
 
 #Usage
     python binwally.py dir1 dir2
