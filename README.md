@@ -7,7 +7,9 @@ For more information: http://w00tsec.blogspot.com/2013/12/binwally-directory-tre
 #Prerequisites:
 - Python 2.7+
 - gcc and build essentials
-- Cython (apt-get install cython)
+- libffi (apt-get install libffi-dev)
+- libfuzzy-dev (apt-get install libfuzzy-dev)
+- python-dev (apt-get install python-dev)
 - [python-ssdeep](https://pypi.python.org/pypi/ssdeep) (pip install ssdeep)
 
 #Screenshots
